@@ -1,0 +1,2 @@
+# Profitable-Apps-on-App-Store-and-Google-Playstore
+The project aims to identify profitable mobile app profiles for the App Store and Google Play. As data analysts at an app development company focused on free-to-download apps that earn revenue through in-app advertising, we aim to provide insights for developers. Our goal is to analyze data to determine which app types can attract a large user base
